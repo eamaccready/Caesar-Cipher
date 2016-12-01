@@ -1,0 +1,6 @@
+C:\repos\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe.config
+C:\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csprojResolveAssemblyReference.cache
+C:\repos\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe
+C:\repos\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.pdb
+C:\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe
+C:\repos\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.pdb

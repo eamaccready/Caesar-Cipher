@@ -1,0 +1,8 @@
+C:\repos\CaesarCipher\CipherTests\bin\Debug\CipherTests.dll
+C:\repos\CaesarCipher\CipherTests\bin\Debug\CipherTests.pdb
+C:\repos\CaesarCipher\CipherTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\repos\CaesarCipher\CipherTests\obj\Debug\CipherTests.csprojResolveAssemblyReference.cache
+C:\repos\CaesarCipher\CipherTests\obj\Debug\CipherTests.dll
+C:\repos\CaesarCipher\CipherTests\obj\Debug\CipherTests.pdb
+C:\repos\CaesarCipher\CipherTests\bin\Debug\CaesarCipher.exe
+C:\repos\CaesarCipher\CipherTests\bin\Debug\CaesarCipher.pdb
